@@ -21,3 +21,14 @@ Cat segmentation experiment using Tensorflow2 TF2
 
     - `test_model.ipynb` for testing model on validation data or inference own cat pictures
 
+## Current Result
+
+**Accuracy and Loss**
+![](https://i.imgur.com/8F0VDUS.png)
+
+**Validation Image**
+![](https://i.imgur.com/WfQS7DH.png)
+![](https://i.imgur.com/FgYEmSR.png)
+
+**Test Image**
+![](https://i.imgur.com/DQuT9zV.png)
